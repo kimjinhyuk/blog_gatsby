@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://temp.jinhyuk.kim",
+    "contentApiKey": "6e038c994bb88f9652b2728170"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://temp.jinhyuk.kim",
+    "contentApiKey": "6e038c994bb88f9652b2728170"
   }
 }
